@@ -1,0 +1,21 @@
+.pagetemplate {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  .static {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+  }
+
+  h2 {
+    margin-top: 50px;
+  }
+
+  margin-top: 56px;
+}
